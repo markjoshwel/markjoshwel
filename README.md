@@ -24,4 +24,4 @@ loving what I feel like loving.
 
 <joshwel.co>
 
-![Profile Hits](https://img.shields.io/endpoint?url=https://hits.dwyl.com/markjoshwel/ganim.json&style=flat-square&label=Hits&color=6244bb)
+![Profile Hits](https://img.shields.io/endpoint?url=https://hits.dwyl.com/markjoshwel/markjoshwel.json&style=flat-square&label=Hits&color=6244bb)
