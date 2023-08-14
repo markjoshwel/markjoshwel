@@ -3,6 +3,8 @@
 > “The first time you meet an angel you get a horrible beating”  
 > ― Terry A. Davis
 
-raspberry is a heaven! eat purple moths! o(*≧▽≦)ツ┏━┓
+raspberry is a heaven!  
+eat purple moths!  
+o(*≧▽≦)ツ┏━┓
 
 [<joshwel.co>](https://joshwel.co)
