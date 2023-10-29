@@ -4,7 +4,10 @@
 > ― Terry A. Davis
 
 raspberry is a heaven!  
-eat purple moths!  
 o(*≧▽≦)ツ┏━┓
+
+know: _**python**, posix sh_  
+trying: _zig, rust_  
+eye out: _haskell, bqn, uiua_
 
 [<joshwel.co>](https://joshwel.co)
