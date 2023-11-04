@@ -10,4 +10,16 @@ know: _**python**, posix sh_
 trying: _zig, rust_  
 eye out: _haskell, bqn, uiua_
 
-[<joshwel.co>](https://joshwel.co)
+active projects:
+- [surplus](https://github.com/markjoshwel/surplus)  
+  Plus Code/latlong/query to iOS Shortcuts-like shareable text converter
+  - [surplus-on-wheels](https://github.com/markjoshwel/surplus-on-wheels)  
+    surplus runner for termux 
+    - [spow-whatsapp-bridge](https://github.com/markjoshwel/spow-whatsapp-bridge)  
+      bridge for surplus on wheels (s+ow) to send messages to WhatsApp
+    - [spow-telegram-bridge](https://github.com/markjoshwel/spow-telegram-bridge)  
+      bridge for surplus on wheels (s+ow) to send messages to Telegram
+- [nuko](https://github.com/markjoshwel/nuko)  
+  a small file uploader to [litterbox.]catbox.moe 
+
+[joshwel.co](https://joshwel.co)
