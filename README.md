@@ -6,9 +6,9 @@
 raspberry is a heaven!  
 o(*≧▽≦)ツ┏━┓
 
-know: _**python**, posix sh_  
-trying: _zig, rust_  
-eye out: _haskell, bqn, uiua_
+know: _python, posix sh_  
+trying: _zig, rust, go_  
+eye out: _haskell, bqn, uiua, pony_
 
 active projects:
 - [surplus](https://github.com/markjoshwel/surplus)  
@@ -20,6 +20,6 @@ active projects:
     - [spow-telegram-bridge](https://github.com/markjoshwel/spow-telegram-bridge)  
       bridge for surplus on wheels (s+ow) to send messages to Telegram
 - [nuko](https://github.com/markjoshwel/nuko)  
-  a small file uploader to [litterbox.]catbox.moe 
+  a small file uploader to [litterbox.]catbox.moe (unfinished)
 
 [joshwel.co](https://joshwel.co)
