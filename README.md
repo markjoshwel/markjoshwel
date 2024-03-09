@@ -3,14 +3,17 @@
 > “The first time you meet an angel you get a horrible beating”  
 > ― Terry A. Davis
 
-raspberry is a heaven!  
 o(*≧▽≦)ツ┏━┓
 
 know: _python, posix sh_  
 trying: _zig, rust, go_  
-eye out: _haskell, bqn, uiua, pony_
+eye out: _haskell, elixir, bqn, uiua_
 
-active projects:
+active projects that _may_ benefit you:
+
+- [tomlantic](https://github.com/markjoshwel/tomlantic)  
+  marrying pydantic models and tomlkit documents for data validated, style-preserving toml files
+
 - [surplus](https://github.com/markjoshwel/surplus)  
   Plus Code/latlong/query to iOS Shortcuts-like shareable text converter
   - [surplus-on-wheels](https://github.com/markjoshwel/surplus-on-wheels)  
@@ -19,7 +22,13 @@ active projects:
       bridge for surplus on wheels (s+ow) to send messages to WhatsApp
     - [spow-telegram-bridge](https://github.com/markjoshwel/spow-telegram-bridge)  
       bridge for surplus on wheels (s+ow) to send messages to Telegram
+
+in-development projects that _may_ benefit you in the future:
+
 - [nuko](https://github.com/markjoshwel/nuko)  
-  a small file uploader to [litterbox.]catbox.moe (unfinished)
+  a small file uploader to [litterbox.]catbox.moe
+
+- arriving (source code not yet published)  
+  a singaporean bus arrival app, with goodies!
 
 [joshwel.co](https://joshwel.co)
