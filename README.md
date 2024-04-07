@@ -23,4 +23,4 @@ legend:
 
 special thanks to those who’ve bought me a little drink:
 
-- Vincent Shields (@vlshields)
+- Vincent Shields ([@vlshields](https://github.com/vlshields))
