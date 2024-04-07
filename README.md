@@ -23,12 +23,8 @@ active projects that _may_ benefit you:
     - [spow-telegram-bridge](https://github.com/markjoshwel/spow-telegram-bridge)  
       bridge for surplus on wheels (s+ow) to send messages to Telegram
 
-in-development projects that _may_ benefit you in the future:
+special thanks to those who’ve bought me a little drink:
 
-- [nuko](https://github.com/markjoshwel/nuko)  
-  a small file uploader to [litterbox.]catbox.moe
-
-- arriving (source code not yet published)  
-  a singaporean bus arrival app, with goodies!
+- Vincent Shields (@vlshields)
 
 [joshwel.co](https://joshwel.co)
