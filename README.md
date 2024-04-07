@@ -18,8 +18,8 @@ active projects that _may_ benefit you:
 
 legend:
 - 🟢 active: is being worked on actively
-- 🟠 mature: considered complete, new updates possible but may be released sparsely
-- 🛠️ maintenance: no new features planned, only will be updated for bug or security fixes
+- 🟠 mature: considered stable, new releases possible but may be sparse
+- 🛠️ maintenance: considered complete, no new features planned, only will be updated for bug or security fixes
 
 special thanks to those who’ve bought me a little drink:
 
