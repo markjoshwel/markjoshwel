@@ -17,10 +17,13 @@ active projects that _may_ benefit you:
 | [fluffy58](https://github.com/markjoshwel/fluffy58) | an approachable 60%-like keymap for the lily58 pro re | GPL-3.0-only | 🛠️ maintenance  | v3 (Sep 25, 2023) |
 
 legend:
-- 🟢 active: is being worked on actively
-- 🟠 mature: considered stable, new releases possible but may be sparse
-- 🛠️ maintenance: considered complete, no new features planned, only will be updated for bug or security fixes
+- 🟢 **active** 
+  is being worked on actively
+- 🟠 **mature**  
+  considered _stable_, new releases possible but may be sparse
+- 🛠️ **maintenance**  
+  considered _complete_, no new features planned, only will be updated for bug or security fixes
 
-special thanks to those who’ve bought me a little drink:
+special thanks to those who’ve bought me a little drink!
 
 - Vincent Shields ([@vlshields](https://github.com/vlshields))
