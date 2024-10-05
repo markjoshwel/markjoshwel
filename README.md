@@ -9,6 +9,7 @@ active projects that _may_ benefit you:
 
 | project | description | licence | status | last release |
 |---|---|---|---|---|
+| [grassplain](https://github.com/markjoshwel/surplus) | an (unserious) command line argument parser generator | Unlicense | 🟢 active | - |
 | [tomlantic](https://github.com/markjoshwel/tomlantic) | marrying pydantic models and tomlkit documents for data validated, style-preserving toml files | Unlicense | 🟡 stagnant | v0.2.1 (Mar 12, 2024) |
 | [surplus](https://github.com/markjoshwel/surplus) | Plus Code/latlong/query to iOS-Shortcuts-like shareable text | Unlicense, MPL-2.0, CC0-1.0 | 🟢 active | v2.2.0 (Oct 15, 2023) |
 | [fluffy58](https://github.com/markjoshwel/fluffy58) | an approachable 60%-like keymap for the lily58 pro re | GPL-3.0-only | 🔴 done | v3 (Sep 25, 2023) |
