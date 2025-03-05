@@ -5,26 +5,6 @@
 
 o(*≧▽≦)ツ┏━┓
 
-active projects that _may_ benefit you:
-
-| project | description | licence | status | last release |
-|---|---|---|---|---|
-| [grassplain](https://github.com/markjoshwel/grassplain) | an (unserious) command line argument parser generator | Unlicense | 🟢 active | - |
-| [tomlantic](https://github.com/markjoshwel/tomlantic) | marrying pydantic models and tomlkit documents for data validated, style-preserving toml files | Unlicense | 🟡 stagnant | v0.2.1 (Mar 12, 2024) |
-| [fluffy58](https://github.com/markjoshwel/fluffy58) | an approachable 60%-like keymap for the lily58 pro re | GPL-3.0-only | 🔴 done | v3 (Sep 25, 2023) |
-
-legend:
-- 🔴 **done**  
-  considered _complete_ and won't be worked on anymore
-- 🟢 **active**  
-  is being worked on actively
-- 🟡 **mature/stagnant**  
-  for >=1.0.0 projects: considered _stable_  
-  for >1.0.0 projects: development not prioritised/stagnant  
-  new releases possible but may be sparse
-- 🛠️ **maintenance**  
-  considered _complete_, no new features planned, only will be updated for bug or security fixes
-
 special thanks to those who’ve [bought me a little drink](https://github.com/sponsors/markjoshwel)!
 
 - Vincent Shields ([@vlshields](https://github.com/vlshields))
