@@ -6,7 +6,8 @@
 
 o(*≧▽≦)ツ┏━┓
 
-technical blog: <https://majo.bearblog.dev>
+portfolio: <https://mark.joshwel.co> **(new!)**  
+technical blog: <https://via.joshwel.co/blog>
 
 special thanks to those who’ve [bought me a little drink](https://github.com/sponsors/markjoshwel)!
 
