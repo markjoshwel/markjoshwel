@@ -1,6 +1,3 @@
-> “The first time you meet an angel you get a horrible beating”  
-> ― Terry A. Davis
-
 > “I will never buy a smartphone—this stuff is on its way out; it’s... obsolete, it fucking sucks”  
 > — Ljot Swanhild
 
